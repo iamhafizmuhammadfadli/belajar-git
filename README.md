@@ -1,4 +1,5 @@
 # belajar-git
 
 
-some readme
+some readme ubuntu
+some readme mac
